@@ -10,7 +10,7 @@
 - 🧠 Currently contributing to **Bioregistry** as a **Research Assistant** at the Gyori Lab for Computational Biomedicine, improving scientific database alignment.  
 - 🔬 Experienced in leveraging tools like **MATLAB** and **Python** for biomechanics and motion analysis.  
 - ✈️ Studied abroad in Belgium, developing a global perspective on government and politics while building **data-driven applications**.  
-- 🏃 Enthusiast in fostering community through Women’s Community of Code, Northeastern's Presidential Ambassador Program, and NU Club Running.
+- 🏃 Enthusiast in fostering community through Women’s Community of Code, Northeastern's Presidential Ambassador Program, NMDP, and NU Club Running.
 
 ---
 
