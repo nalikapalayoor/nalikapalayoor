@@ -23,12 +23,12 @@
 ---
 
 ## 🌟 Featured Projects  
-### [Bioregistry](https://github.com/your-repo-link)  
+### [Bioregistry](https://github.com/nalikapalayoor/bioregistry)  
 - Contributed to an **open-source database** by reviewing publications and curating ontologies.  
 - Improved database accessibility by aligning **Bioregistry records** with external databases.  
 - Developed scalable workflows for data integration, enhancing collaboration in scientific research.
 
-### [Roundtrip Travel Planner](https://github.com/your-repo-link)  
+### [Roundtrip Travel Planner]([https://github.com/your-repo-link](https://github.com/nalikapalayoor/RoundTripApp))  
 - Built a Flask-based API with a regression-based ML model for personalized travel recommendations.  
 - Collaborated with a multidisciplinary team during Belgium study abroad.  
 
