@@ -27,7 +27,7 @@
 - Contributed to an **open-source database** by reviewing publications and curating ontologies.  
 - Improved database accessibility by aligning **Bioregistry records** with external databases.  
 - Developed scalable workflows for data integration, enhancing collaboration in scientific research.
-- See lab website [Here](https://gyorilab.github.io/)
+- See lab website [here](https://gyorilab.github.io/)
 
 ### [Roundtrip Travel Planner](https://github.com/nalikapalayoor/RoundTripApp)
 - Built a Flask-based API with a regression-based ML model for personalized travel recommendations.  
