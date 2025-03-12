@@ -1,15 +1,15 @@
 # Hi, I'm Nalika Palayoor! 👋
 
 🎓 **Second-Year Data Science & Behavioral Neuroscience Honors Student** at Northeastern University.  
-🌱 Passionate about exploring the intersection of **data science** and **life sciences**.  
+🌱 Passionate about exploring the intersection of data science and life sciences.  
 🔬 Focused on research in **biostatistics**, **machine learning**, and **natural language processing**.  
 
 ---
 
 ## 🌱 About Me  
-- 🧠 Currently contributing to **Bioregistry** as a **Research Assistant** at the Gyori Lab for Computational Biomedicine, improving scientific database alignment.  
-- 🔬 Experienced in leveraging tools like **MATLAB** and **Python** for biomechanics and motion analysis.  
-- ✈️ Studied abroad in Belgium, developing a global perspective on government and politics while building **data-driven applications**.  
+- 🧠 Currently contributing to Bioregistry as a Research Assistant at the Gyori Lab for Computational Biomedicine, improving scientific database alignment.  
+- 🔬 Experienced in using python for data analysis in many contexts, especilly with scientific data.
+- ✈️ Studied abroad in Belgium, developing a global perspective on government and politics while building data-driven applications.  
 - 🏃 Fostering community through Women’s Community of Code, Northeastern's Presidential Ambassador Program, NMDP, and NU Club Running.
 
 ---
@@ -25,7 +25,7 @@
 ## 🌟 Featured Projects  
 ### [Bioregistry](https://github.com/nalikapalayoor/bioregistry)  
 - Contributed to an **open-source database** by reviewing publications and curating ontologies.  
-- Improved database accessibility by aligning **Bioregistry records** with external databases.  
+- Improved database accessibility by aligning Bioregistry records with external databases.  
 - Developed scalable workflows for data integration, enhancing collaboration in scientific research.
 - See lab website [here](https://gyorilab.github.io/)
 
@@ -37,7 +37,7 @@
 ---
 
 ## 🚀 Goals  
-- Gain co-op experience in **data science**.
+- Gain co-op experience in data science.
 - Collaborate on open-source projects and contribute to the developer community.  
 - Continue researching biostatistics applications in healthcare.  
 
