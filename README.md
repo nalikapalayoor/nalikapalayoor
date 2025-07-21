@@ -7,7 +7,7 @@
 ---
 
 ## 🌱 About Me  
-- 🧠 Currently contributing to Bioregistry as a Research Assistant at the Gyori Lab for Computational Biomedicine, improving scientific database alignment.  
+- 🧠 Currently working as a computational biology co op at Precede Biosciences.  
 - 🔬 Experienced in using python for data analysis in many contexts, especilly with scientific data.
 - ✈️ Studied abroad in Belgium, developing a global perspective on government and politics while building data-driven applications.  
 - 🏃 Fostering community through Women’s Community of Code, Northeastern's Presidential Ambassador Program, NMDP, and NU Club Running.
