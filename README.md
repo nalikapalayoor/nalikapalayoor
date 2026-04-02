@@ -24,7 +24,7 @@
 ---
 
 ## 🌟 Featured Projects  
-### 🔬 [Clinical Data Standardization](https://github.com/nalikapalayoor/clinical-data-cleaning-pipeline)
+### [Clinical Data Standardization](https://github.com/nalikapalayoor/clinical-data-cleaning-pipeline)
 - Built an NLP-based system to map messy clinical trial spreadsheets to a standardized schema  
 - Trained and evaluated models using TF-IDF and contextual embeddings to handle ambiguous column names  
 - Designed a flexible pipeline to process inconsistent formats, missing values, and noisy real-world data  
